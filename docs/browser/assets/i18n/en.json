@@ -1,0 +1,122 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "FEATURES": "Features",
+    "GALLERY": "Gallery",
+    "ABOUT": "About",
+    "PRODUCTS": "Products",
+    "CONTACT": "Contact us"
+  },
+  "HOME": {
+    "TITLE": "Aurora",
+    "SUBTITLE": "Perfect Care for Your Hair",
+    "DESCRIPTION": "Discover our unique collection of hair care products"
+  },
+  "HERO": {
+    "TITLE": "Discover Your Natural Hair Beauty",
+    "SUBTITLE": "Experience the power of nature with Aurora's sulfate-free shampoo, enhanced with rice protein and aloe vera extract.",
+    "FEATURES": {
+      "SULFATE_FREE": "Sulfate Free",
+      "RICE_PROTEIN": "Rice Protein Enhanced",
+      "ALOE_VERA": "Natural Aloe Vera Extract"
+    },
+    "CTA": "Discover More",
+    "IMAGE_ALT": "Aurora Shampoo"
+  },
+  "FEATURES": {
+    "TITLE": "Why Choose Aurora?",
+    "SULFATE_FREE": {
+      "TITLE": "Sulfate Free",
+      "DESCRIPTION": "Our gentle sulfate-free formula cleanses your hair without stripping its natural oils, keeping it soft, healthy, and naturally beautiful."
+    },
+    "RICE_PROTEIN": {
+      "TITLE": "Rice Protein Power",
+      "DESCRIPTION": "Enhanced with rice protein that strengthens hair from root to tip, reduces breakage, and adds natural shine to your locks."
+    },
+    "ALOE_VERA": {
+      "TITLE": "Aloe Vera Extract",
+      "DESCRIPTION": "Natural aloe vera extract provides deep hydration and nourishment, helping to repair damaged hair and protect it from environmental stress."
+    },
+    "NATURAL": {
+      "TITLE": "Natural Ingredients",
+      "DESCRIPTION": "Made with carefully selected natural ingredients working in harmony"
+    },
+    "ALL_HAIR_TYPES": {
+      "TITLE": "Suitable for All Hair Types",
+      "DESCRIPTION": "Special formula designed to be gentle and effective for all hair types, from straight to curly, fine to thick."
+    },
+    "ENVIRONMENTALLY_FRIENDLY": {
+      "TITLE": "Eco-Friendly",
+      "DESCRIPTION": "Committed to sustainability with eco-friendly packaging and responsible manufacturing practices."
+    }
+  },
+  "GALLERY": {
+    "TITLE": "Product Gallery",
+    "ITEMS": {
+      "ITEM1": {
+        "TITLE": "Aurora Shampoo",
+        "DESCRIPTION": "Experience the Natural Difference",
+        "ALT": "Aurora Shampoo"
+      },
+      "ITEM2": {
+        "TITLE": "Natural Ingredients",
+        "DESCRIPTION": "Rice Protein and Aloe Vera Extract",
+        "ALT": "Natural Ingredients"
+      },
+      "ITEM3": {
+        "TITLE": "Beautiful Results",
+        "DESCRIPTION": "Naturally Healthy and Shiny Hair",
+        "ALT": "Beautiful Results"
+      }
+    },
+    "TESTIMONIALS": {
+      "TITLE": "What Our Customers Say",
+      "TESTIMONIAL1": {
+        "QUOTE": "My hair has never been better! Aurora's natural formula transformed my dry, damaged hair into soft, manageable locks.",
+        "AUTHOR": "- Sarah M."
+      },
+      "TESTIMONIAL2": {
+        "QUOTE": "I love that it's sulfate-free and made with natural ingredients. My scalp is healthier and my hair is shinier!",
+        "AUTHOR": "- Mona R."
+      },
+      "TESTIMONIAL3": {
+        "QUOTE": "Finally found a natural shampoo that actually works! The rice protein has made my hair stronger and more resilient.",
+        "AUTHOR": "- Layla A."
+      }
+    }
+  },
+  "PRODUCTS": {
+    "TITLE": "Our Products",
+    "VIEW_MORE": "View More"
+  },
+  "LANGUAGE": {
+    "ENGLISH": "English",
+    "ARABIC": "العربية"
+  },
+  "FOOTER": {
+    "BRAND": {
+      "LOGO_ALT": "Aurora Logo",
+      "TITLE": "Aurora",
+      "DESCRIPTION": "Discover the power of natural hair care with Aurora's sulfate-free shampoo, enhanced with rice protein and aloe vera extract."
+    },
+    "QUICK_LINKS": {
+      "TITLE": "Quick Links",
+      "HOME": "Home",
+      "FEATURES": "Features",
+      "GALLERY": "Gallery",
+      "CONTACT": "Contact Us"
+    },
+    "CONTACT": {
+      "TITLE": "Contact Us",
+      "ADDRESS": "Omar Ibn Al-Khattab St., Zagazig, Sharqia",
+      "EMAIL": "info@aurora-shampoo.com",
+      "PHONE": "+20 1100811024"
+    },
+    "SOCIAL": {
+      "FACEBOOK": "Facebook",
+      "INSTAGRAM": "Instagram",
+      "TWITTER": "Twitter"
+    },
+    "COPYRIGHT": "Aurora. All rights reserved"
+  }
+}

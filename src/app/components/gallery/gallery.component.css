@@ -1,0 +1,73 @@
+    .gallery-item {
+      position: relative;
+      border-radius: 15px;
+      overflow: hidden;
+      cursor: pointer;
+      
+      img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        transition: transform 0.3s ease;
+      }
+      
+      .overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+        padding: 2rem;
+        color: white;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        
+        h3 {
+          font-size: 1.5rem;
+          margin-bottom: 0.5rem;
+        }
+        
+        p {
+          margin: 0;
+          font-size: 1rem;
+        }
+      }
+      
+      &:hover {
+        img {
+          transform: scale(1.1);
+        }
+        
+        .overlay {
+          opacity: 1;
+        }
+      }
+    }
+    
+    .testimonial-card {
+      background: var(--primary-color);
+      padding: 2rem;
+      border-radius: 15px;
+      text-align: center;
+      height: 100%;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      
+      .rating {
+        color: var(--secondary-color);
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+      }
+      
+      .quote {
+        font-style: italic;
+        color: var(--text-color);
+        margin-bottom: 1rem;
+        line-height: 1.8;
+      }
+      
+      .author {
+        font-weight: 600;
+        color: var(--secondary-color);
+      }
+    }
+  

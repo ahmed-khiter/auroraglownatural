@@ -1,0 +1,61 @@
+    <footer class="footer" id="contact">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <img loading="lazy" src="/assets/logo.png" [alt]="'FOOTER.BRAND.LOGO_ALT' | translate" height="40">
+          <h3>{{ 'FOOTER.BRAND.TITLE' | translate }}</h3>
+        </div>
+        <p class="mt-3">
+          {{ 'FOOTER.BRAND.DESCRIPTION' | translate }}
+        </p>
+      </div>
+      
+      <div class="col-lg-4">
+        <h4>{{ 'FOOTER.QUICK_LINKS.TITLE' | translate }}</h4>
+        <ul class="footer-links">
+          <li><a href="#home">{{ 'FOOTER.QUICK_LINKS.HOME' | translate }}</a></li>
+          <li><a href="#features">{{ 'FOOTER.QUICK_LINKS.FEATURES' | translate }}</a></li>
+          <li><a href="#gallery">{{ 'FOOTER.QUICK_LINKS.GALLERY' | translate }}</a></li>
+          <li><a href="#contact">{{ 'FOOTER.QUICK_LINKS.CONTACT' | translate }}</a></li>
+        </ul>
+      </div>
+      
+      <div class="col-lg-4">
+        <h4>{{ 'FOOTER.CONTACT.TITLE' | translate }}</h4>
+        <ul class="contact-info">
+          <li>
+            <i class="bi bi-geo-alt"></i>
+            <span>{{ 'FOOTER.CONTACT.ADDRESS' | translate }}</span>
+          </li>
+          <li>
+            <i class="bi bi-envelope"></i>
+            <span>{{ 'FOOTER.CONTACT.EMAIL' | translate }}</span>
+          </li>
+          <li>
+            <i class="bi bi-phone"></i>
+            <span>{{ 'FOOTER.CONTACT.PHONE' | translate }}</span>
+          </li>
+        </ul>
+        <div class="social-links mt-3">
+          <a [title]="'FOOTER.SOCIAL.FACEBOOK' | translate" href="#" class="social-link">
+            <i class="bi bi-facebook"></i>
+          </a>
+          <a [title]="'FOOTER.SOCIAL.INSTAGRAM' | translate" href="#" class="social-link">
+            <i class="bi bi-instagram"></i>
+          </a>
+          <a [title]="'FOOTER.SOCIAL.TWITTER' | translate" href="#" class="social-link">
+            <i class="bi bi-twitter"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <hr>
+      <p class="text-center mb-0">
+        &copy; 2024 {{ 'FOOTER.COPYRIGHT' | translate }}.
+      </p>
+    </div>
+  </div>
+</footer>
